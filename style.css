@@ -1,0 +1,20 @@
+#root{
+  margin-top: 50px;
+}
+body{
+  text-align: center;
+  overflow: hidden;
+}
+.title{
+  font-family: arial;
+  padding: 30px;
+  font-size: 50px;
+}
+
+input[type="text"], button{
+  padding: 10px 30px;
+  margin-left: 10px;
+  border: solid 2px black;
+  font-size: 30px;
+  outline: none;
+}
